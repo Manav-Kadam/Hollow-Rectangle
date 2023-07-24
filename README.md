@@ -1,1 +1,15 @@
-# Hollow-Rectangle
+Program TO Print Hollow Rectangle
+
+
+Eg:- 
+
+* * * * * * * * * * 
+*                 * 
+*                 * 
+*                 * 
+*                 * 
+*                 * 
+*                 * 
+*                 * 
+*                 *
+* * * * * * * * * * 
